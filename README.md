@@ -31,7 +31,7 @@ Welcome to **My Music Collection **, a beautifully designed web platform that fe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sudarshanbadli/Freez-Musics/music-website.git
+   git clone https://github.com/Sudarshanbadli/Freez-Musics.git
    cd music-website
 ````
 
