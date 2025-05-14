@@ -31,7 +31,7 @@ Welcome to **My Music Collection **, a beautifully designed web platform that fe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/music-website.git
+   git clone https://github.com/Sudarshanbadli/Freez-Musics/music-website.git
    cd music-website
 ````
 
@@ -54,11 +54,6 @@ Freez Music/
 
 ```
 
----
-
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -73,8 +68,6 @@ Feel free to reach out!
 * Email: [sudarshanbadli7@gmail.com](mailto:sudarshanbadli7@gmail.com)
 
 ```
-
----
 
 Let me know if you want to include user authentication, playlist creation, or admin upload features in your README too.
 ```
