@@ -6,6 +6,7 @@ Welcome to **My Music Collection **, a beautifully designed web platform that fe
 ## 🌐 Live Demo
 
 > [https://freezmusic.netlify.app/]
+> [https://sudarshanbadli.github.io/Freez-Musics/]
 
 ---
 
